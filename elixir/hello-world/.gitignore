@@ -22,3 +22,5 @@ erl_crash.dump
 # Ignore package tarball (built via "mix hex.build").
 hello_world-*.tar
 
+# Ignore VSCode settings.
+/.vscode/
